@@ -1,18 +1,18 @@
 # prettier-config
 To get started run
 ```shell script
-npm install -D prettier @veake/prettier-config
+npm install -D prettier @m-ripper/prettier-config
 ```
 or
 ```shell script
-yarn add -D prettier @veake/prettier-config
+yarn add -D prettier @m-ripper/prettier-config
 ```
 
 Then simply reference it either via the `package.json`:
 ```json
 {
   ...
-  "prettier": "@veake/prettier-config"
+  "prettier": "@m-ripper/prettier-config"
 }
 ```
 or load it with a file like it is described [here](https://prettier.io/docs/en/configuration.html).

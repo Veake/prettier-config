@@ -1,8 +1,8 @@
 {
-  "name": "@veake/prettier-config",
+  "name": "@m-ripper/prettier-config",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Max Ripper (@Veake)",
+  "author": "Max Ripper (@m-ripper)",
   "license": "MIT",
   "private": false,
   "peerDependencies": {
